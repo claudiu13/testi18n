@@ -1,0 +1,10 @@
+{
+    "home": {
+      "welcome": "Welcome! Select Language",
+      "selectLanguage": "Change Language"
+    },
+    "about": {
+      "title": "About Us",
+      "description": "Welcome to our website!"
+    }
+  }

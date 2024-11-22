@@ -1,0 +1,10 @@
+{
+    "home": {
+      "welcome": "Bună! Selectați limba",
+      "selectLanguage": "Schimbă Limba"
+    },
+    "about": {
+      "title": "Despre Noi",
+      "description": "Bine ați venit pe site-ul nostru!"
+    }
+  }
